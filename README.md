@@ -1,1 +1,3 @@
-# weather app with OpenWeatherMap API
+# Weather App 
+
+This was made with OpenWeatherMap API.
